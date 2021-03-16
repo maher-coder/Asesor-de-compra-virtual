@@ -1,4 +1,4 @@
-#BASE DE DATOS
+BASE DE DATOS
 
 En el archivo 'Base_de_datos.py' se encuentra:
 
