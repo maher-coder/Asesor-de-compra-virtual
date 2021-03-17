@@ -12,7 +12,7 @@ from tqdm.notebook import tqdm
 import re
 
 #Leemos el csv que hemos generado con anterioridad
-df = pd.read_csv(r'C:\Users\MAHER\Desktop\PROGRAMACIÓN\Py Programming\Portatiles PC componentes\Base de datos\Portatiles 2020-05-05.csv')
+df = pd.read_csv(r'C:\Users\PATH\Portatiles 2020-05-05.csv')
 
 #Eliminamos los espacios y los parentesis de los nombres para que sea más facil el tratamiento de datos
 df.rename(columns={'Ranking Procesador': 'Ranking_Procesador', 'RAM (GB)': 'RAM_GB', 'Disco duro': 'Disco_duro', 'Precio(€)': 'Precio'}, inplace = True)
