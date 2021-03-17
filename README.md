@@ -11,7 +11,8 @@ Para ello:
 
 Tras procesar todo, si ponemos como ejemplo un presupuesto de 500€, obtenemos que los portatiles con mejor ratio calidad-precio disponibles en el mercado el día 05-05-2020 son:
 
-Top 5 mejores portatiles para el presupuesto proporcionado
+Top 5 mejores portatiles para el presupuesto proporcionado:
+
 Nombre: Lenovo V155
  - Procesador: AMD Ryzen R5 3500U
  - RAM: 8 GB
