@@ -16,7 +16,7 @@ Nombre: Lenovo V155
  - Procesador: AMD Ryzen R5 3500U
  - RAM: 8 GB
  - Memoria: 512GB SSD
- - Pantalla: 15"
+ - Pantalla: 15.6"
  - GPU: nan
  - Precio: 434.14€
 
@@ -24,7 +24,7 @@ Nombre: Medion P6685
  - Procesador: Intel Core i5-8250U
  - RAM: 8 GB
  - Memoria: 1TB+128GB SSD
- - Pantalla: 15"
+ - Pantalla: 15.6"
  - GPU: MX150
  - Precio: 455.14€
 
@@ -40,7 +40,7 @@ Nombre: Lenovo IdeaPad S145-15IIL
  - Procesador: Intel Core i5-1035G1
  - RAM: 8 GB
  - Memoria: 512GB SSD
- - Pantalla: 15"
+ - Pantalla: 15.6"
  - GPU: nan
  - Precio: 470.24€
 
@@ -48,6 +48,6 @@ Nombre: HP 15S-FQ1040NS
  - Procesador: Intel Core i5-1035G1
  - RAM: 8 GB
  - Memoria: 512GB SSD
- - Pantalla: 15"
+ - Pantalla: 15.6"
  - GPU: nan
  - Precio: 470.29€
